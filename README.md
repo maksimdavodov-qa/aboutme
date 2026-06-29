@@ -53,5 +53,5 @@ Passionate about web, gaming and streaming platforms testing.
 - CI/CD Fundamentals
 ---
 ## Contacts
-GitHub: (https://github.com/maksimdavodov-qa)
-LinkedIn: (https://www.linkedin.com/in/maksim-dav%C3%B5dov-b78862400)
+- GitHub: (https://github.com/maksimdavodov-qa)
+- LinkedIn: (https://www.linkedin.com/in/maksim-dav%C3%B5dov-b78862400)
