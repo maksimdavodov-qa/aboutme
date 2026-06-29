@@ -31,7 +31,7 @@ Passionate about web, gaming and streaming platforms testing.
 - DARK SOULS™ III
 ### Multiplayer Games
 - Overwatch
-- Marvel Rivals]
+- Marvel Rivals
 - Apex Legends
 - VALORANT
 - Path of Exile
