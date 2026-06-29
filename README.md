@@ -53,3 +53,4 @@ Passionate about web, gaming and streaming platforms testing.
 - CI/CD Fundamentals
 ---
 ## Contacts
+GitHub: [https://github.com/your_username](https://github.com/maksimdavodov-qa)
