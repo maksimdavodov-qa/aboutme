@@ -1,5 +1,6 @@
-![Testing](https://img.shields.io/badge/Testing-QA-blue)
-![Postman](https://img.shields.io/badge/Postman-API-orange)
-![DevTools](https://img.shields.io/badge/DevTools-Web-green)
-![SQL](https://img.shields.io/badge/SQL-Basic-lightgrey)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+# 👋 Hi, I'm Maksim
+### Junior QA Engineer
+Passionate about web, gaming and streaming platforms testing.
+---
+## 🛠 Skills
+### Testing - Functional Testing - Regression Testing - Smoke Testing - Exploratory Testing - UI Testing - API Testing
