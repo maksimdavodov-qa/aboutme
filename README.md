@@ -22,3 +22,34 @@ Passionate about web, gaming and streaming platforms testing.
 - DonationAlerts
 - Twitch
 - OBS Studio
+### AAA Games
+- Cyberpunk 2077
+- The Witcher 3
+- Red Dead Redemption 2
+- Horizon Zero Dawn
+- Hogwarts Legacy
+- DARK SOULS™ III
+### Multiplayer Games
+- Overwatch
+- Marvel Rivals]
+- Apex Legends
+- VALORANT
+- Path of Exile
+- Team Fortress 2
+---
+## 📂 Portfolio
+📌 Test Cases
+📌 Checklists
+📌 Bug Reports
+📌 API Testing (Postman Collections)
+📌 SQL Queries
+📌 Game Testing Documentation
+---
+## 📈 Currently Learning
+
+- Advanced API Testing
+- SQL
+- Automation Basics
+- CI/CD Fundamentals
+---
+## Contacts
