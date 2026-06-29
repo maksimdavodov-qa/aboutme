@@ -36,6 +36,7 @@ Passionate about web, gaming and streaming platforms testing.
 - VALORANT
 - Path of Exile
 - Team Fortress 2
+- Warframe
 ---
 ## 📂 Portfolio
 📌 Test Cases
